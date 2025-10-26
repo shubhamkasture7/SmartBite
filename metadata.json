@@ -1,0 +1,5 @@
+{
+  "name": "SmartBite",
+  "description": "An application that allows users to upload a food image, and uses Gemini AI to process it and display the estimated calorie count and nutritional information.",
+  "requestFramePermissions": []
+}
